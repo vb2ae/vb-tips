@@ -1,2 +1,2 @@
 # vb-tips
-Source code from VB-Tips website
+Source code from example on the VB-Tips website
